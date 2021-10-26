@@ -1,0 +1,32 @@
+.tabela{
+    cursor: pointer;
+    align-items: center;
+
+}
+
+.tabela tr td{
+    padding: 10px;
+}
+
+
+.tabela tr:nth-child(2n){
+background-color: #eef;
+
+}
+
+.tabela tr:nth-child(2n+1){
+    background-color: #fee;
+    
+    }
+
+.tabela tr:hover {
+    background-color: cyan;
+
+}
+
+
+.tabela tr:first-child{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+
+}

@@ -1,0 +1,13 @@
+.campo {
+    size: 2;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border: solid 1px #ccc;
+    border-radius: 2px;
+    font-family: Arial, 10px;
+    margin-top: 4px;
+
+
+}
