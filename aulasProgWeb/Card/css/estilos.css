@@ -1,0 +1,14 @@
+#divProdutos{
+    width: auto;
+    background-color: blueviolet;
+}
+.div-card{
+    width: 250px;
+    height: 250px;
+    background-color: brown;
+}
+.div-card-img{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+}

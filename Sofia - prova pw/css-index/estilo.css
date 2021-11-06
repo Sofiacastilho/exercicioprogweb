@@ -1,0 +1,17 @@
+
+#divConteudo{
+    margin: 100px;
+    width: auto;
+}
+.card{
+    margin: 10px;
+    padding: 30px 50px 50px; /* vertical | horizontal */
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: rgb(235, 204, 204);
+    float: left;
+}
+.card-img{
+    padding: auto;
+}

@@ -1,0 +1,18 @@
+#divConteudo{
+    width: auto;
+}
+.card{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    float: left;
+    
+}
+.card-img{
+    width: 250px;
+    border: solid 1px white;
+}
+
+.card-img:hover{
+    border: solid 2px #5500FF;
+}
