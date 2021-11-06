@@ -1,2 +1,2 @@
-# exercicioprogweb
-teste de programação web.
+# ProgWeb - aulas
+repositório das aulas de programação web.
